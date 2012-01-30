@@ -3,6 +3,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 			<title>Ultimate Fitness Home</title>
+            <link rel="stylesheet" type="text/css" href="/ultimate/templates/assets/css/def.css"/>
 	</head>
 	<body>
 		
