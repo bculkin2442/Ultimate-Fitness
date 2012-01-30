@@ -5,7 +5,7 @@
 			<title>Ultimate Fitness Home</title>
             <link rel="stylesheet" type="text/css" href="/ultimate/templates/assets/css/def.css"/>
 	</head>
-	<body>
+	<body background="#666666">
 		
 		<?php
 			require_once("templates/header.html");
