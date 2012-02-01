@@ -13,6 +13,7 @@
 			echo '<div id="body">';
 			TemplateBodyLoader::loadBody($_GET["page"]);
 			echo "</div>";
+			require_once("/templates/footer.html");
 		?>
     	</div>	
 	</body>
