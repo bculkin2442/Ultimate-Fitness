@@ -5,7 +5,7 @@
 	Released under the Creative Commons Attribution 3.0 License.
 	
 	Note from the author: These templates take quite a bit of time to conceive,
-	design, and finally code. So please, support our efforts by respecting our
+	design, and finally code. so please, support our efforts by respecting our
 	license: keep our footer credit links intact so people can find out about us
 	and what we do. It's the right thing to do, and we'll love you for it :)
 	
@@ -114,7 +114,7 @@ ul {
 
 #copyright {
 	text-align: center;
-	padding: 8px 0 80px 0;
+	padding: 8px 0 0 0;
 	color: #666666;
 	text-shadow: 0 1px 0 #101010;
 }
@@ -267,7 +267,7 @@ ul {
 	font-size: 1.4em;
 	padding: 0 1em 0 1em;
 	border-top: solid 1px #ffffff;
-	width: 780px;
+	width: 900px;
 }
 
 #nav a {
@@ -317,4 +317,16 @@ ul {
 	width: 252px;
 	float: right;
 	padding: 0;
+}
+#button 
+{
+	background: #666666 url('images/navbg.png') top left repeat-x;
+	width:50px;
+	margin:auto;
+	vertical-align:center;
+	height:25px;
+}
+#pass img
+{
+	border:0px;
 }
